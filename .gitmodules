@@ -1,0 +1,6 @@
+[submodule "fluxgym"]
+	path = fluxgym
+	url = https://github.com/cocktailpeanut/fluxgym.git
+[submodule "ComfyUI"]
+	path = ComfyUI
+	url = https://github.com/comfyanonymous/ComfyUI.git
