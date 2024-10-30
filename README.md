@@ -4,11 +4,10 @@ Collection of AI tools and scripts to sync between things.
 
 Since each tool has its own environment, it is recommended to have separate activation script evs.
 
-Git LFS wasn't working out of the box for me so I needed to run the following to set up on windows.
+## Install
 
-```
-git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"
-```
+1. Pull all the submodules with `git submodule update --init --recursive`.
+1. Git LFS wasn't working out of the box for me so I needed to run `git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"` to set up on windows.
 
 ## TODO
 
