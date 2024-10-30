@@ -4,6 +4,12 @@ Collection of AI tools and scripts to sync between things.
 
 Since each tool has its own environment, it is recommended to have separate activation script evs.
 
+Git LFS wasn't working out of the box for me so I needed to run the following to set up on windows.
+
+```
+git config --global core.sshCommand "C:/Windows/System32/OpenSSH/ssh.exe"
+```
+
 ## TODO
 
 - Script to bootstrap all apps.
