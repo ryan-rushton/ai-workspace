@@ -1,5 +1,4 @@
+einops
 pillow
-torch
-torchvision
-torchaudio
+timm
 transformers
