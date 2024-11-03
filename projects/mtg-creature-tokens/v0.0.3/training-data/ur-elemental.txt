@@ -1,0 +1,1 @@
+MTGTKN with MTGNME 'Elemental', MTGDESC 'Token Creature - Elemental', MTGPWR '4/4' and MTGCLR Red/Blue. An elemental token creature from Magic the Gathering. It is an animated image with a vibrant blue and yellow color scheme. The creature is depicted in a dynamic pose, resembling a central body with a number of limbs, as if it is ready to take flight. It does not look human.

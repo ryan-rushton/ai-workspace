@@ -1,6 +1,17 @@
 [submodule "fluxgym"]
-	path = fluxgym
-	url = https://github.com/cocktailpeanut/fluxgym.git
+    path = fluxgym
+    url = https://github.com/cocktailpeanut/fluxgym.git
 [submodule "ComfyUI"]
-	path = ComfyUI
-	url = https://github.com/comfyanonymous/ComfyUI.git
+    path = ComfyUI
+    url = https://github.com/comfyanonymous/ComfyUI.git
+[submodule "ComfyUI/custom_nodes/ComfyUI-Manager"]
+    path = ComfyUI/custom_nodes/ComfyUI-Manager
+    url = https://github.com/ltdrdata/ComfyUI-Manager.git
+[submodule "fluxgym/sd-scripts"]
+    path = fluxgym/sd-scripts
+    url = https://github.com/kohya-ss/sd-scripts
+    branch = sd3
+[submodule "sd-scripts"]
+	path = sd-scripts
+	url = https://github.com/kohya-ss/sd-scripts
+	branch = sd3

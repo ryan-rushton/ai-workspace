@@ -85,8 +85,12 @@ def create_captions(dir: str, concept_sentence: str):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process some arguments.")
-    parser.add_argument("image_dir", help="The path to the image directory")
-    parser.add_argument("concept", help="The concept sentence, unique or rare word")
+    parser = argparse.ArgumentParser(
+        prog="generate_captions", description="Generates captions for a dir of images."
+    )
+    parser.add_argument("image_dir", type=str, help="The path to the image directory")
+    parser.add_argument(
+        "concept", type=str, help="The concept sentence, unique or rare word"
+    )
     args = parser.parse_args()
     create_captions(dir=args.image_dir, concept_sentence=args.concept)

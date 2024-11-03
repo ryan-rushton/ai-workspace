@@ -1,0 +1,5 @@
+MTGTKN with MTGNME 'Elf Warrior', MTGDESC 'Token Creature - Elf Warrior', MTGPWR '1/1' and MTGCLR Green. A comic style female green elf warrior holding an ornate silver sword. She has black hair and green eyes wearing gold jewellery. She is standing in a lush green forest with rays of light coming through the treetops. --w 745 --h 1040
+
+MTGTKN with MTGNME 'Vampire Spawn', MTGDESC 'Token Creature - Vampire Spawn', MTGPWR '4/4' and MTGCLR White/Black. A semi realistic vampire with fangs bared and blood running down their face. She are wearing a regal dress and she has red hair and red eyes. The background looks to be a town that is currently burning with a crescent red moon in the background. --w 745 --h 1040
+
+MTGTKN with MTGNME 'Angel', MTGDESC 'Token Creature - Angel', MTGPWR '4/4' and MTGCLR Red/White. A fiery angel with blonde hair and blue eyes crashing down with a large sword. The background is a battleground on a black waste with dead demons and zombies.  --w 745 --h 1040

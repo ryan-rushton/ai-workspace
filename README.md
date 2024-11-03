@@ -14,6 +14,10 @@ Windows Git LFS wasn't working out of the box for me so I needed to run `git con
 1. Run `.venv/bin/activate`
 1. Install non torch deps `pip install -r requirements.txt`
 
+## Sharing models
+
+Because models take up a lot of space quick there is a top level `models` dir that should contain all the model safetensors which get shared. To symlink models simply run `sudo python bin/symlink_models.py` to put them in ComfyUi and fluxgym as necessary (requires sudo for windows to be installed).
+
 ## TODO
 
 - Script to bootstrap all apps.

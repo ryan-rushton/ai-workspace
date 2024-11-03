@@ -6,5 +6,8 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnType": true,
     "editor.wordBasedSuggestions": "off"
-  }
+  },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  },
 }

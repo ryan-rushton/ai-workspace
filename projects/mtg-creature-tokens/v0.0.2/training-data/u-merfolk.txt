@@ -1,0 +1,1 @@
+MTGTKN with MTGNME 'Merfolk', MTGDESC 'Token Creature - Merfolk', MTGPWR '1/1' and MTGCLR Blue. A blue and purple Merman swimming in the ocean, he appears to be reaching out to grab something out of view. The background is a underneath the ocean with coral and large fish swimming behind him.

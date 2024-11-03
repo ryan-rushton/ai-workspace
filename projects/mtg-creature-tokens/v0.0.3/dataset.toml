@@ -1,0 +1,16 @@
+[general]
+shuffle_caption = false
+caption_extension = '.txt'
+keep_tokens = 1
+max_bucket_reso = 1040
+
+[[datasets]]
+enable_bucket = true
+resolution = [745, 1040]
+batch_size = 1
+keep_tokens = 1
+
+[[datasets.subsets]]
+image_dir = 'C:\Users\ryanr\Dev\ai-workspace\fluxgym\datasets\mtg-creature-tokens-v0-0-3'
+class_tokens = 'MTGTKN'
+num_repeats = 8
